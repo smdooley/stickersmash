@@ -42,6 +42,17 @@ To learn more about developing your project with Expo, look at the following res
 - [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
 - [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
 
+- [X] Create your first app https://docs.expo.dev/tutorial/create-your-first-app/
+- [X] Add navigation https://docs.expo.dev/tutorial/add-navigation/
+- [X] Build a screen https://docs.expo.dev/tutorial/build-a-screen/
+- [X] Use an image picker https://docs.expo.dev/tutorial/image-picker/
+- [X] Create a modal https://docs.expo.dev/tutorial/create-a-modal/
+- [X] Add gestures https://docs.expo.dev/tutorial/gestures/
+- [] Take a screenshot https://docs.expo.dev/tutorial/screenshot/
+- [] Handle platform differences https://docs.expo.dev/tutorial/platform-differences/
+- [] Configure status bar, splash screen and app icon https://docs.expo.dev/tutorial/configuration/
+- [] Learning resources https://docs.expo.dev/tutorial/follow-up/
+
 ## Join the community
 
 Join our community of developers creating universal apps.
