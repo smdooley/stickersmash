@@ -50,7 +50,7 @@ To learn more about developing your project with Expo, look at the following res
 - [X] Add gestures https://docs.expo.dev/tutorial/gestures/
 - [X] Take a screenshot https://docs.expo.dev/tutorial/screenshot/
 - [X] Handle platform differences https://docs.expo.dev/tutorial/platform-differences/
-- [] Configure status bar, splash screen and app icon https://docs.expo.dev/tutorial/configuration/
+- [X] Configure status bar, splash screen and app icon https://docs.expo.dev/tutorial/configuration/
 - [] Learning resources https://docs.expo.dev/tutorial/follow-up/
 
 ## Join the community
